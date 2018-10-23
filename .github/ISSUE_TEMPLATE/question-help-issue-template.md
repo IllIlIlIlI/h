@@ -8,7 +8,7 @@ about: 'Ask a question or describe a problem '
 
 + If you want to report a bug, please use this form: 
 
-https://github.com/IllIlIlIlI/h/issues/new?template=bug.md
+https://github.com/IllIlIlIlI/h/issues/new?template=bug_report.md
 
 
 + If you want to request a feature or suggest an idea, please use this form: 
@@ -19,7 +19,7 @@ https://github.com/IllIlIlIlI/h/issues/new?template=feature.md
 
 
 **Describe precisely your problem or your question**:
-<br>
+As precise and clear as possible please.
 
 **Screenshots (Optional)**: 
 It may help explain your problem.
