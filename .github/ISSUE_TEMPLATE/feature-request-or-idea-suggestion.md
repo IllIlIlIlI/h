@@ -17,10 +17,10 @@ https://github.com/IllIlIlIlI/h/issues/new?template=bug_report.md
 
 -->
 
-**Describe the idea/feature**:
+## Describe the idea/feature:
 - Is it related to a problem you met?
 - Is it a new service/channel/etc or a feature for an actual service/channel/etc?
 
 
-**Additional context**:
+## Additional context:
 Add any other context, links, screenshots about your request.

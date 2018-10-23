@@ -17,11 +17,11 @@ https://github.com/IllIlIlIlI/h/issues/new?template=feature-request-or-idea-sugg
 
 -->
 
-**Describe the bug**:
+## Describe the bug:
 A clear and concise description of what the bug is.
 
 
-**How To Reproduce**:
+## How To Reproduce:
 Steps to reproduce the behavior:
 1. Go to '...'
 2. Click on '....'
@@ -29,19 +29,19 @@ Steps to reproduce the behavior:
 ...
 
 
-**Expected behavior**:
+## Expected behavior:
 A clear and concise description of what you expected to happen.
 
 
-**Environment**:
+## Environment:
  - Operating System: 
  - HoneyTrap version:
  - ...
 
 
-**Screenshots (optional)**:
+## Screenshots (optional):
 If applicable, add screenshots to help explain the bug.
 
 
-**Additional context**:
+## Additional context:
 Add any other context about the bug here.
